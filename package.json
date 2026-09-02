@@ -1,5 +1,5 @@
 {
-  "name": "georgehall-secure/my-demo-package",
+  "name": "@georgehall-secure/my-demo-package",
   "version": "1.0.0",
   "description": "A small demo JavaScript package.",
   "main": "index.js",
